@@ -6,6 +6,8 @@ Bienvenido a la página de proyectos de código abierto realizado por estudiante
 
 Revisa nuestos proyectos en [Github](https://github.com/fiecup).
 
+Envíanos un mensaje en [Gitter](https://gitter.im/fiecup-github-io/Lobby)
+
 ### Contactos
 
 - [Pagina official Campus](http://fiec.up.ac.pa)
