@@ -4,7 +4,7 @@
 
 Bienvenido a la página de proyectos de código abierto realizado por estudiantes y profesores de la Facultad de Informática, Electrónica y Comunicación de la Universidad de Panamá.
 
-Revisa nuestos proyectos en [Github](https://github.com/fiecup)
+Revisa nuestos proyectos en [Github](https://github.com/fiecup).
 
 ### Contactos
 
