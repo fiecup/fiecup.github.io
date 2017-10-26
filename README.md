@@ -1,6 +1,6 @@
 ## FIEC Open Source Projects
 
-<div style="text-align:center"><img width="60%" src="http://fiec.up.ac.pa/wp-content/uploads/2015/09/FIEC-PORTADA.jpg" alt="fiecup"></div>
+<div style="text-align:center"><img width="60%" src="https://raw.githubusercontent.com/fiecup/fiecup.github.io/master/FIEC-PORTADA.jpg" alt="fiecup"></div>
 
 Bienvenido a la página de proyectos de código abierto realizado por estudiantes y profesores de la Facultad de Informática, Electrónica y Comunicación de la Universidad de Panamá.
 
