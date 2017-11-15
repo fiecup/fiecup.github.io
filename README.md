@@ -6,7 +6,7 @@ Bienvenido a la página de proyectos de código abierto realizado por estudiante
 
 Revisa nuestos proyectos en [Github](https://github.com/fiecup).
 
-Envíanos un mensaje en [Gitter](https://gitter.im/fiecup)
+Envíanos un mensaje en [Gitter](https://gitter.im/fiecup/Lobby)
 
 ### Contactos
 
